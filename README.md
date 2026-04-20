@@ -1,15 +1,50 @@
-# Python Mini Project - Digital Clock
+#  Python Mini Project - Digital Clock
 
-This is a simple digital clock project built using Python.
+A simple yet elegant Digital Clock application built using Python and Tkinter.
+This project displays the current system time in real-time with a clean graphical interface.
 
-## Features
-- Displays current time
-- Updates every second
+---
 
-## How to run
+##  Features
+
+* Real-time clock display (updates every second)
+* Supports both 24-hour and 12-hour (AM/PM) formats
+* Simple and attractive GUI using Tkinter
+* Lightweight and easy to run
+
+---
+
+##  Technologies Used
+
+* Python
+* Tkinter
+* Time module
+
+---
+
+##  How to Run
+
 1. Install Python
-2. Run the file:
+2. Open the project in PyCharm
+3. Run the file:
    python digital_clock.py
 
-## Author
+---
+
+##  Output
+
+Displays a live digital clock with a black background and cyan text.
+
+---
+
+##  Future Improvements
+
+* Add date display
+* Add alarm feature
+* Add themes
+
+---
+
+##  Author
+
 Nagalakshmi
