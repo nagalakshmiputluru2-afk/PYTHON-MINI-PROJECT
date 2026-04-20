@@ -1,4 +1,4 @@
-#  Python Mini Project - Digital Clock
+# Python Mini Project - Digital Clock
 
 A simple yet elegant Digital Clock application built using Python and Tkinter.
 This project displays the current system time in real-time with a clean graphical interface.
