@@ -32,10 +32,7 @@ A simple yet elegant **Digital Clock application** built using Python and Tkinte
 
 1. Install Python
 2. Open the project in PyCharm
-3. Run the file:
-
-python digital_clock.py
-```
+3. Run the file: python digital_clock.py
 
 ---
 
